@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique Azevedo</h1>
 <h3 align="center">FrontEnd developer from Brazil</h3>
-<img aligh="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img aligh="center" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoazhenrique&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoazhenrique" /> </p>
 
