@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique Azevedo</h1>
-<h3 align="center">developer from Brazil</h3>
+<h3 align="center">Web Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular**
+ 🔭 I’m currently working at **ED Software**
 
-- 📫 How to reach me **ghazevedoctt@gmail.com**
+ 🌱 I’m currently learning **Angular**
+
+ 📫 How to reach me **ghazevedoctt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
