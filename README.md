@@ -3,8 +3,6 @@
 
  🔭 I’m currently working at **ED Software**
 
- 🌱 I’m currently learning **Angular**
-
  📫 How to reach me **ghazevedoctt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
