@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique Azevedo</h1>
 <h3 align="center">Web Developer from Brazil</h3>
 
- 🔭 I’m currently working at **ED Software**
+ 🔭 Open to Work**
 
  📫 How to reach me **ghazevedoctt@gmail.com  // gustavo.henrique@ed.dev.br**
 
