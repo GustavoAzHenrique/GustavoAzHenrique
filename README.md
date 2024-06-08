@@ -3,7 +3,7 @@
 
  🔭 Open to Work**
 
- 📫 How to reach me **ghazevedoctt@gmail.com  // gustavo.henrique@ed.dev.br**
+ 📫 How to reach me ** ghazevedoctt@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
